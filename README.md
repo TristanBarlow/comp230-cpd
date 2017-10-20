@@ -11,3 +11,6 @@ This Week, during the second comp220 lectures we explored in more depth: OpenGL,
 ## Week Three
 
 During the comp 230 lecture this week, we engaged in a class dialogue. The dialogue involved everyone in the group expressing their thoughts on the current topic. The aim of this dialogue was for everyone to benefit from hearing the opinions of others and not to challenge those opinions but to accept them and ask them to explain their viewpoints. I found myself challenging the thoughts of my peers and not asking them to explain their opinions. Next week during our next dialogue I will be more respectful and ask for my peers to explain their viewpoints.
+
+## Week Four
+In week four, I found large frustration with my inability to focus on one task for any meaningful amount of time. For example, on Tuesday, I sat down to improve the structure of my comp220 project. Shortly after starting I found myself getting bored of the reformatting and I begin to code some new mechanics for our group game project. I am usually very productive  productive but constantly flicking between tasks reduced the efficiency of the work period as a whole. In the future, I will sit down and force myself to work on one task at a time, in the hopes that this will improve the quality and quantity of work I produce. 
