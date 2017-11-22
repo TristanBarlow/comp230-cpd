@@ -32,14 +32,22 @@ Solution: Always submit even a working progress one day before the deadline is d
 
 ## 5 Key skills WORK IN PROGRESS
 Sticking to a formualted plan of action.
+~ I will do this by creating a plan of action for each module and assessing how closly I follow the plan.
 
-To learn 3 different mental carming techniques. (So that I can conduct better dialougues etc.)
+To better control my emotitions when conversing with peers.
+~ I will do this by learning three mental calming techniques and practices them when feeling adverse emotions (frustration)
 
-Practice diaglouges at least 3 times a month.
+Increase my proficienccy at diaglouging.
+~ I will do this by engaging in at least three structured dialogues a month.
 
-Produce a 2D game in the unity engine to improve c# skills.
+I will improve my c# skills to increase my knowledge of programming languages.
+~ I will do this by creating a small 2D game with my friend(artist) hopefully to a level where I can publish it
+on the appstore.
 
-Learn a new aspect of Unreal engine every week.
+Increase my knowledge on stratagies for learning.
+~ I will do this by reading a research paper and trying to implement one methods described to learn a new aspect in unreal engine. And assessing 
+which one is most effective for me.
+
 
 ## definitions
 Dispositional domain ~ manage time and remain diciplined
