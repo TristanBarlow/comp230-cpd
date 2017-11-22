@@ -28,3 +28,6 @@ The issues I had this week came in the COMP220 Lecture. I found myself losing co
 Issue: Submitting the first and last version on the day the work is due.
 Effect: Could miss submission if anything something unexpected happens. 
 Solution: Always submit even a working progress one day before the deadline is due. That way worse come to worse I will have something submitted.
+
+
+## 5 Key skills
