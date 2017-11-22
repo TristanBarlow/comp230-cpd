@@ -20,3 +20,11 @@ With the first deadline of the semester comes the time management problems that 
 
 ## Week Six
 Week six was meant to be reading week however, it was changed, unofficially to open studio practice week at the last minute. I was planning on using this week to complete my research journal assignment instead, my game development team required us to be in every day. The issues I had with this week is my commitment to a plan. I found myself going in and working on the game as appose to doing the research journal as I had planned. This with the deadline for the research journal fast approaching working on the game should not be the priority right now. In future, I, when I create a sensible plan sticking to it, will be more beneficial to me in the long run.
+
+## Week Seven
+The issues I had this week came in the COMP220 Lecture. I found myself losing concentration, this was because of the complex nature of the material covered. To better keep my concentration when in class I will open the lecture slides and follow through the material as we go, rather than trying to implement the material being covered. 
+
+## Week Eight
+Issue: Submitting the first and last version on the day the work is due.
+Effect: Could miss submission if anything something unexpected happens. 
+Solution: Always submit even a working progress one day before the deadline is due. That way worse come to worse I will have something submitted.
