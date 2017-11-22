@@ -30,4 +30,14 @@ Effect: Could miss submission if anything something unexpected happens.
 Solution: Always submit even a working progress one day before the deadline is due. That way worse come to worse I will have something submitted.
 
 
-## 5 Key skills
+## 5 Key skills WORK IN PROGRESS
+Sticking to a formualted plan of action.
+
+To learn 3 different mental carming techniques. (So that I can conduct better dialougues etc.)
+
+Practice diaglouges at least 3 times a month.
+
+Produce a 2D game in the unity engine to improve c# skills.
+
+Learn a new aspect of Unreal engine every week.
+
