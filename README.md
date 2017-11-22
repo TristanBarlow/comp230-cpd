@@ -41,3 +41,9 @@ Produce a 2D game in the unity engine to improve c# skills.
 
 Learn a new aspect of Unreal engine every week.
 
+## definitions
+Dispositional domain ~ manage time and remain diciplined
+Affective domain ~ managing mental states and emotions
+Interpersonal domain ~ communicate and orgainse activities with peers
+cognitive domain ~ knowledge of programming languages and frameworks
+Procedural domain ~ the ability to apply concepts and the ability to solve problems
